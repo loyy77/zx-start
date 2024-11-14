@@ -21,7 +21,7 @@ features:
   - title: Kwai账号管理系统
     details: 简单、稳定高效
     link: http://124.71.195.172:17333/
-  - title: Kwai福袋管理系统wqy
+  - title: Kwai福袋管理系统
     details: 简单、稳定高效
     link: http://124.71.195.172:17521/
 #  - title: 其他
