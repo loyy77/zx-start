@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "兆旭智能"
   text: "启动"
-  tagline: 一切的起点
+  tagline: 一个跨境电商系统服务商
   actions:
 #    - theme: brand
 #      text: Markdown Examples
@@ -14,7 +14,7 @@ hero:
 #      text: API Examples
 #      link: /api-examples
     - theme: brand
-      text: 下载CK中转服务程序
+      text: 下载CK中转程序
       link: https://sh1-e777.obs.cn-east-3.myhuaweicloud.com/ckagent/publish/CK%E4%B8%AD%E8%BD%AC%E6%9C%8D%E5%8A%A1v1.6S%2020241113.zip
 
 features:
