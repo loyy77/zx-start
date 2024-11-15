@@ -15,7 +15,7 @@ hero:
 #      link: /api-examples
     - theme: brand
       text: 下载CK中转程序
-      link: https://sh1-e777.obs.cn-east-3.myhuaweicloud.com/ckagent/publish/CK%E4%B8%AD%E8%BD%AC%E6%9C%8D%E5%8A%A1v1.6S%2020241113.zip
+      link: https://sh1-e777.obs.cn-east-3.myhuaweicloud.com/ckagent/publish/CK%E4%B8%AD%E8%BD%AC%E6%9C%8D%E5%8A%A1v1.6%2020241113.zip
 
 features:
   - title: Kwai账号管理系统
